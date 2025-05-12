@@ -32,7 +32,7 @@ const App = () => {
           <button className="btn btn-block" onClick={handleClick}>
             {isLoaded ? "clear all" : "load data"}
           </button>
-          <p>This project is developed for CS2B 2025 Batch</p>
+          <p>This project is developed for CS2B 2025 Batch on 12 May 2025</p>
         </section>
       </main>
     </>
